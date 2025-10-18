@@ -1,1 +1,12 @@
 # ML
+internpredict.ipynb file is about Intern Performance Prediction Model that how each is performing in the internship and what are their task completion time, their feedback ratings, attendance rate, how many total tasks are completed by them , how many meetings they have attended. what are their quality score of their work and what are their performance score which they are giving through their work so on the basis of these things they are being evaluated and predicted the percentage of accuracy that how much they gave their best and the overall performance is predicted then.
+
+sentiment.ipynb file is about Sentiment Analysis of Internship Feedback that what interns have experienced during the internship ,they have given the Internship Feedback whether the internship is good or bad, so in this task I have made a prediction model for analyzing the sentiment according to the feedback of interns, they feel during their internship.
+
+learningpath.ipynb file is about Learning Path Recommendation System for interns who have applied in the internship like based on their skills, their abilities, the courses they know on which level, so their efficiency and capabilities rates are predicted and through this recommendations are given to each intern which courses they should try to learn based on their prior skils and where each intern is lacking.
+
+AI-powered interview question generator.ipynb file is about AI-Powered Interview Question Generator that in which role the intern is applying so AI will automatically generate relevant questions related to his role , and tell the intern that this application process, this is the eligibility criteria , these are the software requirements and these are the intern requirements ,so on the basis of these Interview will be held. 
+
+skillgapanalysis.ipynb file is about Skill Gap Analysis Tool that each intern has some diiferent skills set and based on their area of interest what are the cluster_top_skills for them, they have some missing skills according to the market trend, and they have given the suggestions to learn some courses accordingly to fill these skill gaps.
+
+chatbotinternship.ipynb file is about Chatbot for Internship Support that if some interns have any personal issues with them and they want support for internship like where to fill the application form for leave and where they can find their materials and resources etc.
